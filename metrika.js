@@ -19,4 +19,3 @@ ym(105467514, 'init', {
   accurateTrackBounce: true,
   trackLinks: true,
 });
-
